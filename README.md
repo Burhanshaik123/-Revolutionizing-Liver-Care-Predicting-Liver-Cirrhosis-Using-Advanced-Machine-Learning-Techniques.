@@ -1,0 +1,2 @@
+# -Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-Using-Advanced-Machine-Learning-Techniques.
+Liver cirrhosis is often diagnosed too late for effective care. This project uses advanced machine learning to predict its onset and progression by analyzing clinical, biochemical, and imaging data. Explainable AI ensures transparent, actionable insights for early diagnosis and personalized, data-driven liver care.
